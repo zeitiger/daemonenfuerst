@@ -15,6 +15,7 @@ Entscheide dich für ein Attribut und erhöhe es um 1.
 **Sprachen & Berufe** Du sprichst die Gemeinsprache. Du beherrschst eine weitere Sprache oder einen Beruf nach Wahl.
 
 | 1W20 | Hintergrund |
+| --- | --- |
 |  1 | Du bist gestorben und ins Leben zurückgekehrt. Du beginnst das Spiel mit **1W6 Wahnsinn.** |
 |  2 | Ein Dämon war kurzzeitig im Besitz deines Körpers. Du beginnst das Spiel mit **1 Verderbnis.** |
 |  3 | Du hast 1W6 Jahre als Gefangener in einem Verlies zugebracht. |
