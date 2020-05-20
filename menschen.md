@@ -1,3 +1,5 @@
+# Menschen
+
 **Startwerte der Attribute** Stärke 10, Gewandtheit 10, Intelligenz 10, Willenskraft 10.
 
 Entscheide dich für ein Attribut und erhöhe es um 1. 
@@ -36,3 +38,61 @@ Entscheide dich für ein Attribut und erhöhe es um 1.
 | 18 | Du hast eine alte Schatzkarte gefunden. |
 | 19 | Jemand mit Einfluss und Macht schuldet dir einen Gefallen. |
 | 20 | Du bist zu Geld gekommen und beginnst das Spiel mit **2W6 Kupferpfennigen.** |
+
+| 3W6 | Persönlichkeit |
+| --- | --- |
+|  3 |  |
+|  4 |  |
+| 5-6 |  |
+| 7-8 |  |
+| 9-12 |  |
+| 13-14 |  |
+| 15-16 |  |
+| 17 |  |
+| 18 |  |
+
+
+| 3W6 | Religion |
+| --- | --- |
+|  3 |  |
+|  4 |  |
+| 5-6 |  |
+| 7-10 |  |
+| 11-15 |  |
+| 16-18 |  |
+
+
+| 3W6 | Alter |
+| --- | --- |
+|  3 |  |
+| 4-7 |  |
+| 8-12 |  |
+| 13-15 |  |
+| 16-17 |  |
+| 18 |  |
+
+
+| 3W6 | Körperbau |
+| --- | --- |
+|  3 |  |
+|  4 |  |
+| 5-6 |  |
+| 7-8 |  |
+| 9-12 |  |
+| 13-14 |  |
+| 15-16 |  |
+| 17 |  |
+| 18 |  |
+
+
+| 3W6 | Aussehen |
+| --- | --- |
+|  3 |  |
+|  4 |  |
+| 5-6 |  |
+| 7-8 |  |
+| 9-12 |  |
+| 13-14 |  |
+| 15-16 |  |
+| 17 |  |
+| 18 |  |
