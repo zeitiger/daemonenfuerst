@@ -1,5 +1,7 @@
 # Uhrwerke
 
+## Uhrwerke Allgemein
+
 **Startwerte der Attribute** Stärke 9, Gewandtheit 8, Intelligenz 9, Willenskraft 9
 
 **Wahrnehmung** entspricht deinem Wert in Intelligenz. 
@@ -24,6 +26,15 @@
 
 **Schaden reparieren** Solange du als Wesen giltst, heilst du ebenso Schaden. Bist du ein Gegenstand, kann dich jemand anderes durch eine Aktion mithilfe von Werkzeugen reparieren. Die Arbeiten dauern mindestens vier Stunden. Am Ende dieser Zeit ist eine Intelligenz-Probe mit 1 Nachteilswürfel erforderlich: Bei einem Erfolg heilst du Schaden in Höhe deiner Heilungsrate.
 
+## Uhrwerke Erwürfeln 
+
+* 3W6 Alter
+* 1W20 Daseinszweck
+* 3W6 Form
+* 3W6 Aussehen
+* 1W20 Hintergrund
+* 3W6 Persönlichkeit
+
 | 3W6 | Alter |
 | --- | --- |
 | 3-8 | Du bist neu, bis zu 5 Jahre alt oder jünger. |
@@ -32,7 +43,7 @@
 | 16-17 | Du bist sehr alt, zwischen 51 und 150 Jahren. |
 | 18 | Du bist eine Antiquität, mehr als 151 Jahre alt. |
 
-| 1W20 | Daseinsweck |
+| 1W20 | Daseinszweck |
 | --- | --- |
 | 1-4 | Du wurdest für den Krieg geschaffen. **Erhöhe deine Stärke oder Gewandtheit um 2.** |
 | 5-8 | Du wurdest für die Arbeit gebaut. **Erhöhe deine Stärke um 2.** |
