@@ -34,6 +34,8 @@ so, als ob sie erleuchtet wären. Jenseits dieser Entfernung behandelst du Dunk
 * 1W20 Hintergrund
 * 3W6 Persönlichkeit
 
+### Tabellen
+
 | 3W6 | Alter | 
 | --- | --- |
 | 3 | Du bist ein Kind im Alter von 19 Jahren oder jünger. |
