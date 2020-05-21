@@ -83,3 +83,54 @@ Alternativ kann auf einen Beruf verzichtet werden und stattdessen *eine weitere 
 | 18 | Spion |
 | 19 | Schläger |
 | 20 | Gassenkind |
+
+| 1W20 | Kriegerische Berufe | 
+| --- | --- |
+|  1 | Büttel |
+|  2 | Detektiv |
+| 3-4 | Wächter |
+|  5 | Kerkermeister |
+|  6 | Offizier |
+|  7 | Seesoldat |
+|  8 | Söldner |
+| 9-10 | Milizionär |
+| 11-12 | Stadtwache |
+| 13-15 | Bauernrekrut |
+| 16 | Gladiator |
+| 17-18 | Soldat |
+| 19 | Schildknappe |
+| 20 | Folterknecht |
+
+| 1W20 | Religiöse Berufe |
+| --- | --- |
+| 1-2 | Anhänger. Du bist ein überzeugter Anhänger deines Glaubens. Du kannst **eine dir bekannte Sprache lesen und schreiben.** |
+| 3-4 | Prediger. Du reist von Ort zu Ort und predigst deinen Glauben allen, die dir zuhören. Du bist auf die Freigiebigkeit der Gläubigen angewiesen. Du beherrscht **eine dir bekannte Sprache in Wort und Schrift.** |
+| 5 | Flagellant. Du führst ein Leben der Entbehrungen, um dich deinen Göttern näherzubringen. Du geißelst dich eventuell selbst, enthältst dir Essen und Trinken vor oder findest andere, kreativere Wege, um dich leiden zu lassen. |
+| 6 | Ketzer. Du folgst religiösen Überzeugungen, die von den Führern deines Glaubens als gefährlich und ketzerisch angesehen werden. |
+| 7-8 | Eingeweihter des **Alten Glaubens.** Du wurdest feierlich in die Riten des Alten Glaubens eingeweiht. |
+| 9-10 | Geistlicher. Du bist der religiöse Führer deiner Gemeinde. Du beherrscht **eine dir bekannte Sprache in Wort und Schrift.** |
+| 11-12 | Akolyth des **Neuen Gottes**. Du studierst, um Priester der Kirche des Neuen Gottes zu werden. Du beherrscht **eine dir bekannte Sprache in Wort und Schrift.** |
+| 13 | Handlanger eines Inquisitors. Du dienst einem Inquisitor oder Hexenjäger |
+| 14-16 | Pilger. Du reist zu Orten, die Anhängern deiner Religion als heilig gelten. |
+| 17-18 | Straßenprediger. Du predigst an Straßenecken und flehst die Menschen an, Vergebung zu suchen, da das Ende naht. |
+| 19-20 | Mündel eines Tempels. Du warst wahrscheinlich ein Waisenkind und wurdest von den Geistlichen erzogen. |
+
+| 1W20 | Wildnisberufe |
+| --- | --- |
+| 1 | Bandit, Brigant oder Straßenräuber |
+| 2 | Barbar |
+| 3 | Ausgestoßener |
+| 4 | Sammler |
+| 5-6 | Wildnissführer |
+| 7 | Einsiedler |
+| 8-9 | Jäger |
+| 10 | Nomade oder Vagabund |
+| 11 | Pionier |
+| 12 | Wilddieb |
+| 13 | Goldsucher |
+| 14 | Gesetzloser |
+| 15-16 | Flüchtling |
+| 17 | Höhlenforscher |
+| 18 | Fährtensucher |
+| 19 | Fallensteller |
+| 20 | Holzfäller |
