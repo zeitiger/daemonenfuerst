@@ -5,10 +5,10 @@
 Wähle ein Volk aus, übernehme den allgemeien Teil des Volks und erwürfel den volksabhängigen Teil
 
 * [Menschen](menschen.md)
-* [Orks]
-* [Goblins]
-* [Wechselbaelger]
-* [Uhrwerke]
-* [Zwerge]
+* [Orks](orks.md)
+* [Goblins](goblins.md)
+* [Uhrwerke](uhrwerke.md)
+* [Wechselbaelger](wechselbaelger.md)
+* [Zwerge](zwerge.md)
 
-Danach erwürfel den unabhängigen Teil wie Berufe, Ausstattung etc. in [allgemeines]
+Danach erwürfel den unabhängigen Teil wie Berufe, Ausstattung etc. in [Allgemeines](allgemein.md)
