@@ -2,10 +2,10 @@
 
 ## Allgemeines Erwürfeln
 
-* 1W6 1W20 je Beruf
-* 3W6 Lebensstil und Ausrüstung
-* 1W6 1W20 Interessantes Detail
-* 2W20 Persönlichkeitsmerkmale (Positiv und Negativ)
+* 1W6 1W20 [je Beruf](#berufe--sprachen)
+* 3W6 [Lebensstil und Ausrüstung](#ausrüstung)
+* 1W6 1W20 [Interessantes Detail](#interessantes-detail)
+* 2W20 [Persönlichkeitsmerkmale (Positiv und Negativ)](#persönlichkeitsmerkmale)
 
 ## Berufe & Sprachen
 
