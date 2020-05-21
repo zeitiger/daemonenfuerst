@@ -35,6 +35,8 @@
 * 1W20 Marotte
 * 3W6 Persönlichkeit
 
+### Tabellen
+
 | 3W6 | Alter |
 | --- | --- |
 | 3 | Du bist ein Kind, 8 Jahre alt oder jünger. |
