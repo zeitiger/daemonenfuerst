@@ -18,7 +18,7 @@
 
 **Immunität** Schaden durch Krankheiten; *Betört*, *Krank*
 
-**Anfälligkeit für Eisen** Du wirst beim Kontakt mit Eisen beeintröchtigt.
+**Anfälligkeit für Eisen** Du wirst beim Kontakt mit Eisen *beeinträchtigt.*
 
 **Schattensicht** Du siehst in Bereichen, die von Schatten getarnt sind, als wären sie erleuchtet.
 
