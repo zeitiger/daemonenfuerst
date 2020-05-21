@@ -35,6 +35,8 @@
 * 1W20 Hintergrund
 * 3W6 Persönlichkeit
 
+### Tabellen
+
 | 3W6 | Alter |
 | --- | --- |
 | 3-8 | Du bist neu, bis zu 5 Jahre alt oder jünger. |
