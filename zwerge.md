@@ -1,5 +1,7 @@
 # Zwerge
 
+## Zwerge Allgemein
+
 **Startwerte der Attribute** Stärke 10, Gewandtheit 9, Intelligenz 10, Willenskraft 10
 
 **Wahrnehmung** entspricht deinem Wert in Intelligenz +1. 
@@ -22,6 +24,15 @@ so, als ob sie erleuchtet wären. Jenseits dieser Entfernung behandelst du Dunk
 **Verhasste Wesen** Wähle ein Volk aus der Hass-Tabelle aus. Dein Hass gewährt dir 1 Vorteilswürfel auf all deine Angriffe gegen Angehörige dieses Volkes.
 
 **Robuste Konstitution** Du erleidest nur halben Schaden durch Gift. Du legst Proben, um den Zustand Vergiftet zu verhindern oder zu beenden, mit 1 Vorteilswürfel ab.
+
+## Zwerge Erwürfeln
+
+* 3W6 Alter
+* 3W6 Körperbau
+* 3W6 Aussehen
+* 1W20 Verhasste Wesen
+* 1W20 Hintergrund
+* 3W6 Persönlichkeit
 
 | 3W6 | Alter | 
 | --- | --- |
