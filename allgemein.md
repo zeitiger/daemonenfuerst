@@ -9,7 +9,7 @@
 
 ## Berufe & Sprachen
 
-Man beginn mit **zwei Berufen**.
+Man beginnt mit **zwei Berufen**.
 
 Alternativ kann auf einen Beruf verzichtet werden und stattdessen **eine weitere Sprache** oder **Lesen und Schreiben in einer bestehenden Sprache** gewählt werden.
 
