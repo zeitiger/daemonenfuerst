@@ -1,5 +1,7 @@
 # Orks
 
+## Orks Allgemein 
+
 **Startwerte der Attribute** Stärke 11, Gewandtheit 10, Intelligenz 9, Willenskraft 9
 
 **Wahrnehmung** entspricht deinem Wert in Intelligenz +1. 
@@ -17,6 +19,16 @@
 **Sprachen & Berufe** Du sprichst die Gemeinsprache und die Dunkle Sprache.
 
 **Schattensicht** Du siehst in Bereichen, die von Schatten getarnt sind, als wären sie erleuchtet.
+
+## Orks Erwürfeln
+
+* 3W6 Alter
+* 3W6 Körperbau
+* 3W6 Aussehen
+* 1W20 Hintergrund
+* 3W6 Persönlichkeit
+
+### Tabellen
 
 | 3W6 | Alter |
 | --- | --- |
