@@ -1,5 +1,7 @@
 # Goblins
 
+## Goblins Allgemein
+
 **Startwerte der Attribute** Stärke 8, Gewandtheit 12, Intelligenz 10, Willenskraft 9
 
 **Wahrnehmung** entspricht deinem Wert in Intelligenz +1. 
@@ -23,6 +25,17 @@
 **Schattensicht** Du siehst in Bereichen, die von Schatten getarnt sind, als wären sie erleuchtet.
 
 **Hinterhältig** Wenn du würfelst, um dich zu verstecken oder leise zu bewegen, erhältst du auf die Gewandtheits-Probe einen Vorteilswürfel.
+
+## Goblins Erwürfeln
+
+* 1W20 Besonders Aussehen
+* 3W6 Alter
+* 3W6 Körperbau
+* 1W20 Seltsame Angewohnheit
+* 1W20 Hintergrund
+* 3W6 Persönlichkeit
+
+### Tabellen
 
 | 1W20 | Besonderes Aussehen |
 | --- | --- |
@@ -113,7 +126,6 @@
 | 18 | Du hast in den Abwasserkanälen einen Siegelring gefunden. |
 | 19 | Du bist der siebzehnte Sohn oder die siebzehnte Tochter des Goblinkönigs |
 | 20 | Du bist zu Geld gekommen und beginnst das Spiel mit **2W6 Kupferpfennigen.** |
-
 
 | 3W6 | Persönlichkeit |
 | --- | --- |
