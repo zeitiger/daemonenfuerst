@@ -1,5 +1,7 @@
 # Allgemeines für jedes Volks
 
+[zurück](README.md)
+
 ## Allgemeines Erwürfeln
 
 * 1W6 1W20 [je Beruf](#berufe--sprachen)
