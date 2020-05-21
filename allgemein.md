@@ -1,10 +1,16 @@
 # Allgemeines für jedes Volks
 
+## Allgemeines Erwürfeln
+
+* 1W6 1W20 ein Beruf
+
 ## Berufe & Sprachen
 
 Man beginn mit **zwei Berufen**.
 
-Alternativ kann auf einen Beruf verzichtet werden und stattdessen *eine weitere Sprache* oder *Lesen und Schreiben in einer bestehenden Sprache* gewählt werden.
+Alternativ kann auf einen Beruf verzichtet werden und stattdessen **eine weitere Sprache** oder **Lesen und Schreiben in einer bestehenden Sprache** gewählt werden.
+
+### Tabellen
 
 | 1W6 | Berufsart |
 | --- | --- |
@@ -134,3 +140,38 @@ Alternativ kann auf einen Beruf verzichtet werden und stattdessen *eine weitere 
 | 18 | Fährtensucher |
 | 19 | Fallensteller |
 | 20 | Holzfäller |
+
+## Ausrüstung
+
+| 3W6 | Lebensstil |
+| --- | --- |
+| 3-4 | Mittellos |
+| 5-8 | Arm |
+| 9-13 | Anständig |
+| 14-16 | Komfortabel |
+| 17 | Wohlhabend |
+| 18 | Reich |
+
+### Mittelos
+
+Du besitzt einen Knüppel oder eine Schleuder mit 20 Steinen, Lumpen und eine Börse mit 1W6 Heller.
+
+### Arm
+
+Du besitzt einen Kampfstab oder einen Knüppel oder eine Schleuder mit 20 Steinen, einfache geflickte Kleidung, einen Sack, einen Wasserschlauch, einen Laib Brot, eine Zunderdose, eine Kerze und einen Beutel mit 2W6 Heller.
+
+### Anständig
+
+Du besitzt einen Dolch und dazu entweder einen Stock, einen Knüppel oder eine Schleuder mit 20 Steinen, einfache Kleidung, einen Rucksack, einen Wasserschlauch, Rationen für eine Woche, eine Zunderdose, zwei Fackeln und eine Börse mit 1W6 Kupferpfennigen.
+
+### Komfortabel 
+
+Du besitzt einen Dolch, einen Stock, einen Knüppel oder eine Schleuder mit 20 Steinen, gute Kleidung, einen Rucksack, einen Umhang, Rationen für eine Woche, einen Wasserschlauch, ein Seil, eine Zunderdose, zwei Fackeln, einen Heiltrank und eine Börse mit 2W6 Kupferpfennigen. Du verfügst darüber hinaus über einen kleinen Schild, eine Zauberformel für einen Zauberspruch des 0. Grades nach Wahl des Spielleiters auf einer Schriftrolle oder eine Heilertasche, einen Werkzeugsatz oder Schreibwerkzeug.
+
+### Wohlhabend
+
+Du besitzt einen Dolch, höfische Kleidung, einen Umhang, einen Rucksack, Rationen für eine Woche, einen Wasserschlauch, ein Seil, eine Zunderdose, eine Laterne, zwei Flaschen Öl einen Heiltrank und eine Börse mit 1W6 Silberschillingen. Du verfügst darüber hinaus über einen Schild, eine Zauberformel für einen Zauberspruch des 0. Grades nach Wahl des Spielleiters auf einer Schriftrolle, oder eine Heilertasche, einen Werkzeugsatz oder Schreibzeug.
+
+### Reich
+
+Du besitzt einen Dolch, Adelskleidung, einen Umhang, einen Rucksack, Rationen für eine Woche, einen Wasserschlauch, einen Heiltrank und eine Börse mit 2W6 Silberschillingen. Du verfügst darüber hinaus über einen persönlichen Diener, einen Wächter und drei ausgerüstete Pferde.
