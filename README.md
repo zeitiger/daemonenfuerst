@@ -4,7 +4,7 @@
 
 Wähle ein Volk aus, übernehme den allgemeien Teil des Volks und erwürfel den volksabhängigen Teil
 
-* [Menschen]
+* [Menschen](menschen.md)
 * [Orks]
 * [Goblins]
 * [Wechselbaelger]
