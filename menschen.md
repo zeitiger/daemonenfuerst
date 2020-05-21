@@ -1,5 +1,7 @@
 # Menschen
 
+## Menschen Allgemein
+
 **Startwerte der Attribute** Stärke 10, Gewandtheit 10, Intelligenz 10, Willenskraft 10.
 
 Entscheide dich für ein Attribut und erhöhe es um 1. 
@@ -15,6 +17,17 @@ Entscheide dich für ein Attribut und erhöhe es um 1.
 **Schaden** 0, **Wahnsinn** 0, **Verderbnis** 0
 
 **Sprachen & Berufe** Du sprichst die Gemeinsprache. Du beherrschst eine weitere Sprache oder einen Beruf nach Wahl.
+
+## Menschen Erwürfeln
+
+* 1W20 Hintergrund
+* 3W6 Persönlichkeit
+* 3W6 Religion
+* 3W6 Alter
+* 3W6 Körperbau
+* 3W6 Aussehen
+
+### Tabellen
 
 | 1W20 | Hintergrund |
 | --- | --- |
