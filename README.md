@@ -8,7 +8,7 @@ Wähle ein Volk aus, übernehme den allgemeien Teil des Volks und erwürfel den 
 * [Orks](orks.md)
 * [Goblins](goblins.md)
 * [Uhrwerke](uhrwerke.md)
-* [Wechselbaelger](wechselbaelger.md)
+* [Wechselbälger](wechselbaelger.md)
 * [Zwerge](zwerge.md)
 
 Danach erwürfel den unabhängigen Teil wie Berufe, Ausstattung etc. in [Allgemeines](allgemein.md)
