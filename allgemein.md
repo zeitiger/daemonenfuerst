@@ -179,6 +179,130 @@ Du besitzt einen Dolch, höfische Kleidung, einen Umhang, einen Rucksack, Ratio
 
 Du besitzt einen Dolch, Adelskleidung, einen Umhang, einen Rucksack, Rationen für eine Woche, einen Wasserschlauch, einen Heiltrank und eine Börse mit 2W6 Silberschillingen. Du verfügst darüber hinaus über einen persönlichen Diener, einen Wächter und drei ausgerüstete Pferde.
 
+## Interessantes Detail
+
+| 1W6 1W20 | Interessantes Detail |
+| --- | --- |
+| 1  1 | Ein kleines metallenes Kästchen ohne jede Öffnung. Aus dem Inneren dringt ein leise tickendes Geräusch. |
+| 1  2 | Ein Schädel aus lupenreinem Kristall. |
+| 1  3 | Ein wassergefülltes Goldfischglas mit einem kleinen lebenden Goldfisch. |
+| 1  4 | Ein seltsamer Geruch, ein beißender Gestank oder ein nie richtig heilender Hautzustand. |
+| 1  5 | Eine Flasche mit den Tränen einer Jungfrau. |
+| 1  6 | Eine Blume, die niemals welkt. |
+| 1  7 | Ein kleiner Magnet oder silberner Spiegel. |
+| 1  8 | Eine Einladung zu einer Feierlichkeit oder eine Maske für einen Maskenball. |
+| 1  9 | Ein mit einem Monogramm besticktes Taschentuch, das immer sauber bleibt |
+| 1 10 | Ein immer scharfes Klappmesser. |
+| 1 11 | Ein Paar Tanzschuhe. |
+| 1 12 | Eine winzige, reglose, mechanische Spinne |
+| 1 13 | Ein Schrumpfkopf. |
+| 1 14 | Ein Glasauge oder Bezoarstein. |
+| 1 15 | Ein Buch in einer unbekannten Sprache oder ein Buch mit Inhalten, von denen du niemals erfahren wolltest. |
+| 1 16 | Ein Satz Wahrsagekarten. |
+| 1 17 | Zwei gezinkte Würfel. |
+| 1 18 | Sechs Küchlein, die dich bis zum nächsten Morgen sättigen. |
+| 1 19 | Ein Phylakterium. Ein kleines Behältnis aus Leder, in dessen Inneren sich ein kleiner, mit einem einzigen Wort beschriebener Zettel befindet. |
+| 1 20 | Dir eilt der Ruf voraus, ein harter Knochen zu sein. |
+| 2  1 | Eine Flöte, Panflöte oder ein anderes Musikinstrument. |
+| 2  2 | Ein Reliquienbehältnis, das einen kleinen Knochen enthält. |
+| 2  3 | Ein kleines Abbild eines Dämons, geschnitzt aus grünem Stein. |
+| 2  4 | Ein Erinnerungsstück eines Bewunderers oder Verliebten. |
+| 2  5 | Eine zahme Maus, ein zahmes Eichhörnchen oder Kaninchen. |
+| 2  6 | Ein Monokel oder eine schwere Schutzbrille. |
+| 2  7 | Eine silberne Kette mit einem Medaillon. |
+| 2  8 | Eine gefüllte Schnupftabakdose |
+| 2  9 | Eine glänzende Drachenschuppe. |
+| 2 10 | Ein faustgroßes, blaugesprenkeltes Ei. |
+| 2 11 | Unerwiderte Liebe. |
+| 2 12 | Ein mit Knochen gefüllter schwarzer Eisenkessel. |
+| 2 13 | Eine Schachtel mit 1W20 Eisennägeln. |
+| 2 14 | Eine Phiole mit edlem Parfüm oder eine Flasche billigen Schnaps. |
+| 2 15 | Eine Feder aus Bronze. |
+| 2 16 | Eine eiserne Münze mit einem Kratzer auf einer Seite oder eine Stahlmünze mit einem Drachenkopf auf beiden Seiten. |
+| 2 17 | Eine Schachtel mit 1W6+1 Pinseln. |
+| 2 18 | Eine blutbefleckte Puppe. |
+| 2 19 | Ein silberner Verlobungsring im Wert von 1 Silberschilling. |
+| 2 20 | Eine Bürste, ein Kamm oder ein Schirm. |
+| 3  1 | Ein Stück Seife oder ein Handtuch. |
+| 3  2 | Ein Knäuel mit 30 Metern Schnur. |
+| 3  3 | Ein kleines Portrait, eine Haarlocke oder ein anderer Gunstbeweis eines geliebten Menschen. |
+| 3  4 | Ein Fässchen Bier. |
+| 3  5 | Zwei Kaninchen oder ein Sack voller Pfannen und Töpfe. |
+| 3  6 | Ein Pfeil oder Bolzen mit silberner Spitze. |
+| 3  7 | Eine Hälfte einer Schatzkarte, die Karte eines fremden Landes oder eine große blaue Karte, die mit Kreisen und merkwürdigen Anmerkungen versehen ist. |
+| 3  8 | Eine Waffe nach Wahl des Spielleiters. |
+| 3  9 | Ein leichter oder schwerer Schild mit einem fremdartigen Wappen. |
+| 3 10 | Modische Kleidung mit merkwürdigen Flecken |
+| 3 11 | Ein persönlicher Diener. |
+| 3 12 | Ein heiliges Symbol aus Silber oder eine filigrane religiöse Ikone. |
+| 3 13 | Ein Beutel mit 2W6 Steinen, Eicheln, abgeschlagenen Köpfen oder leckeren Pilzen. |
+| 3 14 | Eine Spieluhr, die ein sehr, sehr trauriges Lied spielt, wenn man sie öffnet. |
+| 3 15 | Ein Beutel mit 100 Murmeln. |
+| 3 16 | Ein Glaskrug gefüllt mit Speichel, ein Sack mit verwesenden Hühnerteilen oder eine außergewöhnliche Narbe. |
+| 3 17 | Ein kleiner Beutel mit 3W6 Zähnen, einem Halsband mit 1W6 Ohren oder 1W6 abgeschlagenen, an den Haaren zusammengebundenen Köpfen. |
+| 3 18 | Ein neugeborenes Kind, das deines sein könnte oder auch nicht. |
+| 3 19 | Eine Kiste mit sechs edlen, weißen Kerzen. |
+| 3 20 | Ein kleiner Hund, der zur Boshaftigkeit neigt. |
+| 4  1 | Ein Glaskrug mit einem Käfer, der mit glühenden Flecken übersät ist (leuchtet wie eine Kerze). |
+| 4  2 | Ein Paar Stiefel, die dir beim Schleichen 1 Vorteilswürfel gewähren oder ein Umhang, der dir 1 Vorteilswürfel beim Verstecken gibt. |
+| 4  3 | Ein Glasbehältnis mit einem in Alkohol konservierten Organ. |
+| 4  4 | Ein kleiner Glaskäfig. |
+| 4  5 | Eine Schachtel mit 1W6 Tintenflaschen in verschieden Farben. |
+| 4  6 | Eine kleine, reglose, mechanische Eule. |
+| 4  7 | Sechs Meter Seil, das man nicht zerschneiden kann. |
+| 4  8 | Das Abzeichen einer Söldnerkompanie. |
+| 4  9 | Ein gefülltes Zigarrenkistchen oder eine Pfeife mit Tabakbeutel. |
+| 4 10 | Ein Medaillon mit dem Porträt einer hässlichen Frau. |
+| 4 11 | Ein Stachelhalsband, Hautklammern und eine Peitsche |
+| 4 12 | Ein Sack mit fünf Kilogramm Mehl. |
+| 4 13 | Eine Bronzeplatte mit einem eingeritzten Namen. |
+| 4 14 | Eine Kristallflasche, die einen Radius von 2 Metern hell erleuchtet, wenn man den Stöpsel entfernt. |
+| 4 15 | Ein Kästchen mit sechs Kreidestäbchen. |
+| 4 16 | Ein Empfehlungsschreiben einer mächtigen und einflussreichen Person. |
+| 4 17 | Ein Bruchstück eines Spiegels, das auf seiner spiegelnden Fläche einen fremdartigen Ort zeigt. |
+| 4 18 | Ein kleiner goldener Käfig, in dem eine lebendige stumme Fee gefangen ist. |
+| 4 19 | Eine Flasche mit der Aufschrift „Molchauge“. |
+| 4 20 | Ein Bohnensäckchen. |
+| 5  1 | Ein Glas mit Fett oder eine Flasche mit Leim. |
+| 5  2 | Eine mit wirbelndem Nebel gefüllte Glaskugel. |
+| 5  3 | Ein Umhang mit 2W20 geheimen Taschen. |
+| 5  4 | Eine Brille, die dich gelegentlich durch bis zu 3 cm dickes Gestein blicken lässt. |
+| 5  5 | Eine kleine, blaue Schachtel, die im Inneren doppelt so groß ist, wie es eigentlich scheint. |
+| 5  6 | Eine kleine Stahlkugel |
+| 5  7 | Eine versteinerte Hand, die im Licht des Vollmondes zuckt. |
+| 5  8 | Der wahre Name eines wirklich unbedeutenden Dämons. |
+| 5  9 | Ein wiederbelebtes Mäuseskelett. |
+| 5 10 | Eine Waffe nach Wahl des Spielleiters, die in einem Radius von 1 m Licht ausstrahlt. |
+| 5 11 | Ein Beutel mit 1W6+1 Prisen eines Pulvers, das bis zu einem Kubikmeter Stein in weichen Lehm verwandelt. |
+| 5 12 | Ein Eimer Farbe, der sich jeden Morgen erneut füllt. |
+| 5 13 | Eine winzige Kugel aus Metall, die, wenn losgelassen, 2,5 cm über jeder festen Oberfläche schwebt. |
+| 5 14 | Ein Beutel mit 1W6+1 Prisen Diamantstaub |
+| 5 15 | Ein Gehirn in einem Glas. |
+| 5 16 | Ein Beutel mit merkwürdigen Stäbchen aus Fleisch. |
+| 5 17 | Ein Streitkolben aus purpurnem Metall und einem eingeritzten Namen auf dem Schaft. |
+| 5 18 | Ein gewaltiges Stück Kohle, das eine Aura der Bösartigkeit umgibt. |
+| 5 19 | Ein Bernstein mit einer Fliege, die ein menschliches Gesicht hat. |
+| 5 20 | Ein Leben voll Reue. |
+| 6  1 | Der Ruf, ein guter Liebhaber zu sein. |
+| 6  2 | Ein mumifizierter Halbling. |
+| 6  3 | Kleidung, die einmal am Tag bei Sonnenuntergang ihr Aussehen ändern kann. |
+| 6  4 | Eine Dose Rüben. |
+| 6  5 | Ein Verfolger, der jedoch flieht, sobald du auf ihn zugehst. |
+| 6  6 | Eine Vergangenheit, derer du dich schämst. |
+| 6  7 | Ein wiederkehrender und verstörender Traum. |
+| 6  8 | Eine Kiste voller Körperteile. |
+| 6  9 | Ein von einem traurigen Esel gezogener Karren. |
+| 6 10 | Drei weiße Mäuse, die dir merkwürdige Dinge zuflüstern, während du schläfst. |
+| 6 11 | Ein Zittern, ein Zucken im Gesicht oder ein irritierendes Lachen. |
+| 6 12 | Ein Thermometer. |
+| 6 13 | Ein 90 cm langer, zusammenklappbarer Stab. |
+| 6 14 | Dein Schatten passt nicht zu deinen Bewegungen. |
+| 6 15 | Furcht und Abscheu. |
+| 6 16 | Eine ausgeprägte Vorliebe für Alkohol. |
+| 6 17 | Ein dünnes, unter der Kleidung getragenes Kettenhemd, das als leichte Rüstung zählt, aber nicht mit anderer Rüstung kombiniert werden kann. |
+| 6 18 | Ein bizarrer Fetisch. |
+| 6 19 | Ein anspruchsvoller Ehepartner. |
+| 6 20 | Ein schreckliches Geheimnis, das du dich nicht zu enthüllen wagst. |
 
 ## Persönlichkeitsmerkmale
 
