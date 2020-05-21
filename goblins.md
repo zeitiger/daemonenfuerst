@@ -1,6 +1,6 @@
 # Goblins
 
-[zurück](README.md)
+[zurück](README.md#der-schatten-des-dämonenfürsten)
 
 ## Goblins Allgemein
 
