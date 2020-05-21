@@ -146,6 +146,8 @@ Alternativ kann auf einen Beruf verzichtet werden und stattdessen **eine weitere
 
 ## Ausrüstung
 
+[zurück](#allgemeines-für-jedes-volks)
+
 | 3W6 | Lebensstil |
 | --- | --- |
 | 3-4 | Mittellos |
@@ -180,6 +182,8 @@ Du besitzt einen Dolch, höfische Kleidung, einen Umhang, einen Rucksack, Ratio
 Du besitzt einen Dolch, Adelskleidung, einen Umhang, einen Rucksack, Rationen für eine Woche, einen Wasserschlauch, einen Heiltrank und eine Börse mit 2W6 Silberschillingen. Du verfügst darüber hinaus über einen persönlichen Diener, einen Wächter und drei ausgerüstete Pferde.
 
 ## Interessantes Detail
+
+[zurück](#allgemeines-für-jedes-volks)
 
 | 1W6 1W20 | Interessantes Detail |
 | --- | --- |
@@ -305,6 +309,8 @@ Du besitzt einen Dolch, Adelskleidung, einen Umhang, einen Rucksack, Rationen fu
 | 6 20 | Ein schreckliches Geheimnis, das du dich nicht zu enthüllen wagst. |
 
 ## Persönlichkeitsmerkmale
+
+[zurück](#allgemeines-für-jedes-volks)
 
 | 1W20 | Positiv | Negativ | 
 | --- | --- | --- |
