@@ -36,7 +36,7 @@
 | 1W6 | Scheinbares Geschlecht |
 | --- | --- |
 | 1-3 | Du scheinst männlich zu sein. |
-| 4-6 | Du scheinst männlich zu sein. |
+| 4-6 | Du scheinst weiblich zu sein. |
 
 | 3W6 | Scheinbare Abstammung |
 | --- | --- |
