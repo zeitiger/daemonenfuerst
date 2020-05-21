@@ -1,5 +1,7 @@
 # Wechselbälger
 
+[zurück](README.md#der-schatten-des-dämonenfürsten)
+
 ## Wechselbälger Allgemein
 
 **Startwerte der Attribute** Stärke 9, Gewandtheit 10, Intelligenz 10, Willenskraft 10.
