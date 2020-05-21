@@ -1,6 +1,6 @@
 # Allgemeines für jedes Volks
 
-[zurück](README.md)
+[zurück](README.md#der-schatten-des-dämonenfürsten)
 
 ## Allgemeines Erwürfeln
 
