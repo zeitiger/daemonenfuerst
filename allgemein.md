@@ -2,7 +2,10 @@
 
 ## Allgemeines Erwürfeln
 
-* 1W6 1W20 ein Beruf
+* 1W6 1W20 je Beruf
+* 3W6 Lebensstil und Ausrüstung
+* 1W6 1W20 Interessantes Detail
+* 2W20 Persönlichkeitsmerkmale (Positiv und Negativ)
 
 ## Berufe & Sprachen
 
@@ -175,3 +178,29 @@ Du besitzt einen Dolch, höfische Kleidung, einen Umhang, einen Rucksack, Ratio
 ### Reich
 
 Du besitzt einen Dolch, Adelskleidung, einen Umhang, einen Rucksack, Rationen für eine Woche, einen Wasserschlauch, einen Heiltrank und eine Börse mit 2W6 Silberschillingen. Du verfügst darüber hinaus über einen persönlichen Diener, einen Wächter und drei ausgerüstete Pferde.
+
+
+## Persönlichkeitsmerkmale
+
+| 1W20 | Positiv | Negativ | 
+| --- | --- | --- |
+| 1 | Wohltätig | Distanziert |
+| 2 | Heiter | Arrogant |
+| 3 | Mutig | Eingebildet |
+| 4 | Zuverlässig | Feige |
+| 5 | Entschlossen | Hinterlistig |
+| 6 | Pflichtbewusst | Impulsiv |
+| 7 | Empathisch | Faul |
+| 8 | Gerecht | Bösartig |
+| 9 | Versöhnlich | Unausstehlich |
+| 10 | Gnädig | Streitsüchtig |
+| 11 | Großzügig | Unhöflich |
+| 12 | Hilfsbereit | Sarkastisch |
+| 13 | Ehrlich | Egozentrisch |
+| 14 | Ehrenvoll | Unordentlich |
+| 15 | Bescheiden | Geizig |
+| 16 | Idealistisch | Missmutig |
+| 17 | Einfallsreich | Mürrisch |
+| 18 | Gütig | Gedankenlos |
+| 19 | Galant | Unfreundlich |
+| 20 | Ordentlich | Vulgär |
