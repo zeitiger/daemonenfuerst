@@ -99,8 +99,7 @@
 | 4-5 | Du genießt es, die Gestalt anderer anzunehmen, damit du Unfug treiben kannst. |
 | 6 | Du nimmst Gestalten an, die dir Macht über andere verleihen. Diese Macht schützt dich. |
 | 7-10 | Du nimmst die Gestalt anderer an, um daraus Profit zu schlagen, meistens um dir Zugang zu Orten zu verschaffen, die dir normalerweise nicht offenstehen würden. |
-| 11-13 | Du wählst sorgfältig aus, welche Gestalten
-du annimmst. Du versuchst dich von Ärger fernzuhalten und deine Geheimnisse für dich zu behalten. |
+| 11-13 | Du wählst sorgfältig aus, welche Gestalten du annimmst. Du versuchst dich von Ärger fernzuhalten und deine Geheimnisse für dich zu behalten. |
 | 14 | Du willst das Richtige tun und nutzt deine Masken, um anderen Leuten zu helfen und dich vor deinen Feinden zu schützen. |
 | 15-16 | Dein Wesen ist eine Gabe, die du nutzt, um das – wie du glaubst – Richtige zu tun. Auch wenn du auf deinem Weg andere damit verärgerst. |
 | 17 | Du neigst dazu, eine Gestalt möglichst lange beizubehalten. Du sehnst dich nach Stabilität und würdest alles dafür tun, „normal“ zu sein |
