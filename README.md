@@ -4,9 +4,10 @@
 
 Wähle ein Volk aus, übernehme den allgemeien Teil des Volks und erwürfel den volksabhängigen Teil
 
+* [Goblins](goblins.md)
+* [Halblinge](halblinge.md)
 * [Menschen](menschen.md)
 * [Orks](orks.md)
-* [Goblins](goblins.md)
 * [Uhrwerke](uhrwerke.md)
 * [Wechselbälger](wechselbaelger.md)
 * [Zwerge](zwerge.md)
