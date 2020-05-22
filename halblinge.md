@@ -33,6 +33,8 @@
 * 3W6 Religion
 * 3W6 Persönlichkeit
 
+### Tabellen
+
 | 3W6 | Alter |
 | --- | --- |
 | 3 | Du bist ein Kind, 11 Jahre alt oder jünger. |
